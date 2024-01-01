@@ -1,0 +1,22 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "title": "My Second Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Joining Internship"
+    },
+    {
+      "id": 3,
+      "title": "My Third Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Attending Interviews"
+    },
+    {
+      "id": 4,
+      "title": "My Fourth Post",
+      "datetime": "Jan 01, 2024 1:14:58 PM",
+      "body": "Hello  all, vanakkam , this is my fourth post"
+    }
+  ]
+}
